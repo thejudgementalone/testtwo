@@ -1,0 +1,74 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="UTF-8">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>inside_my_eye</title>
+<!-- TemplateEndEditable -->
+<link href="styles.css" rel="stylesheet" type="text/css">
+<style type="text/css">
+body,td,th {
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+}
+a:link {
+    color: #21C7C2;
+    text-decoration: none;
+	background-color: #ffffff;
+	padding: 10px;
+	border-radius: 20px;
+}
+h1,h2,h3,h4,h5,h6 {
+    font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+}
+a:visited {
+    color: #5F2575;
+    text-decoration: none;
+}
+a:hover {
+    color: #ffffff;
+    text-decoration: none;
+	background-color: #21C7C2;
+	padding: 10px;
+	border-radius: 20px;
+	
+}	
+a:active {
+    color: #191919;
+    text-decoration: none;
+}
+</style>
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+</head>
+<body>
+<div id="container">
+  <header>
+  </header>
+	<nav>
+	<ul>
+	<li><a href="about_me_website.html">About</a></li>
+	<li><a href="project_two.html">Blog</a></li>
+	<li><a href="#">Gallery</a></li>
+	<li><a href="project_two_contact.html">Contact</a></li>
+	
+	</ul>
+	</nav>
+  <!--Begins Float stuff-->
+  <aside><h4>I am a Student, a Son, a Writer, a Reader, an ex-worker, a superfan of Rob from Brain Buffet and Cthulhu.</h4>
+	<h4> Join me, as I witness the Workings of Rob through my lenses.</h4>
+	</aside>
+  <main>
+	<article>
+		<h1>The Glorious Frog&nbsp;</h1>
+		<p><img src="images/divine_destroyer.jpeg" alt="" width="300" height="200" class="frog"/><span><p>The Glorious Frog is a precious thing, and this blog's purpose is to say how much I hate Frog Haters. Frog Haters are vile monsters who don't deserve a social position of any kind, including an occupation. Frogs are perfect, flawless entities, and they cannot make a mistake or a misjudgement, unless it it's something controlled by forces they cannot influence. Any argument that a frog is not a flawless creature can be refuted or rebuked with logic and common sense. Thank you for listening to my logical argument.</p></span></p>
+			<h1>The Judgemental Toad</h1>
+		<p><img src="images/judgement.jpeg" width="300" height="200" alt=""/>Hamburger Cheesebc Whopper Hamburger Cburger Big Mac Hamburger Cheepper Haburger Cheeseburhopper Hamber Cheeseburger Big Mac Whopper </p><p>Cheeseburger Big Mac Whopper Hamburger Cheeseburger Big Mac Whopper Hamburger Cheeseburger Big Mac Whopper Hamburger Cheeseburger Big Mac Whopper Hamburger Cheeseburger Big Mac Whopper Hamburger Cheeseburger Big Mac Whopper Hamburger Cheeseburger Big Mac Whopper Hamburger Cheeseburger Big Mac Whopper Hamburger Cheeseburger Big Mac Whopper Hamburger Cheeseburger Big Mac Whopper Hamburger Cheeseburger Big Mac Whopper Hamburger Cheeseburger Big Mac Whopper </p>	
+		<h1>The Council</h1>
+		<p><img src="images/the_council_decides_a_fate_el_hijos_grande.jpeg" alt="" width="300" height="214" class="council"/>Hamburger Cheesebc Whopper Hamburger Cburger Big Mac Hamburger Cheepper Haburger Cheeseburhopper Hamber Cheeseburger Big Mac Whopper </p><p>Cheeseburger Big Mac Whopper Hamburger Cheeseburger Big Mac Whopper Hamburger Cheeseburger Big Mac Whopper Hamburger Cheeseburger Big Mac Whopper Hamburger Cheeseburger Big Mac Whopper Hamburger Cheeseburger Big Mac Whopper Hamburger Cheeseburger Big Mac Whopper Hamburger Cheeseburger Big Mac Whopper Hamburger Cheeseburger Big Mac Whopper Hamburger Cheeseburger Big Mac Whopper Hamburger Cheeseburger Big Mac Whopper Hamburger Cheeseburger Big Mac Whopper <p></p></p>
+	</article>
+  </main>
+  <!--End Float stuff-->
+  <footer></footer>
+</div>
+</body>
+</html>
